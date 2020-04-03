@@ -1,7 +1,8 @@
  body {
     background-color: orange;
     color: forestgreen;
-
+    .sansserif {
+      font-family: Arial
 }
 h1 {
       color: darkblue;
