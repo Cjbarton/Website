@@ -42,3 +42,12 @@ section {
 footer {
   color: black;
 }
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
