@@ -16,9 +16,12 @@ h1 {
 
  h2 {
    color: darkgreen;
-   font-size: 24
+   font-size: 24px
  }
-
+h3 {
+  color: darkgreen;
+  font-size: 18px
+}
 p {
   color: darkblue;
 }
