@@ -1,8 +1,13 @@
+/* Wesite Styles */
+* {
+    /* font-size: 100%; */
+}
+
  body {
     background-color: orange;
     color: forestgreen;
-
     font-family: 'Merriweather', serif;
+    font-size: 14px
 }
 h1 {
       color: darkblue;
@@ -11,3 +16,15 @@ h1 {
  h2 {
    color: darkgreen;
  }
+
+p {
+  color: darkblue;
+}
+
+section {
+  color: royalblue;
+}
+
+footer {
+  color: pink;
+}
