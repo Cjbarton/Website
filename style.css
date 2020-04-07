@@ -9,6 +9,7 @@
 
  body {
     background-color: orange;
+    text-align: center;
     color: forestgreen;
     font-family: 'Merriweather', serif;
     font-size: 14px;
@@ -16,8 +17,9 @@
 }
 img {
   width: 300px;
-  height: 200px;
+  height: 400px;
   border: 2px solid black;
+  padding: 20px;
 
 }
 
@@ -38,10 +40,12 @@ header h1 {
  h2 {
    color: darkgreen;
    font-size: 24px
+   text-align: center;
  }
 h3 {
   color: darkgreen;
   font-size: 18px
+  text-align: center;
 }
 h1, h2, h3 {
   font-weight: bold;
@@ -60,6 +64,7 @@ ol, ul {
 
 section {
   color: green;
+  text-align: center;
   border: 1px solid gainsboro;
   background-color: white;
   margin: 30px;
