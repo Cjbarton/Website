@@ -1,0 +1,33 @@
+body {
+  background-color: aqua;
+    color: red;
+    font-family: arial;
+    font-size: 14px;
+}
+
+* {
+  font-size: 100%;
+  /* border:1px solid red; */
+}
+h1 {
+  text-align: center;
+}
+
+h2, p {
+  color: red;
+}
+section, h3 {
+  color: green;
+}
+a {
+  text-decoration: none;
+  color: red;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:visited {
+  color: blue;
+}

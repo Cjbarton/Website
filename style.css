@@ -1,19 +1,28 @@
 /* Wesite Styles */
 * {
-    /* font-size: 100%; */
+   font-size: 100%;
+   margin: 2;
+   line-height: 1;
+   /* border: 1px solid red; */
 }
 
  body {
     background-color: orange;
     color: forestgreen;
     font-family: 'Merriweather', serif;
-    font-size: 14px
+    font-size: 14px;
+    /* margin: 10px 10px 10px 10px; */
 }
 h1 {
       color: green;
       font-size: 36px
-      text-align: left;
+      text-align: center;
+      border-bottom: 2px solid black;
     }
+header {
+  border-bottom: 5px solid grey;
+  border-top: 5px solid grey;
+}
 header h1 {
   text-align: center;
 }
@@ -29,15 +38,26 @@ h3 {
 h1, h2, h3 {
   font-weight: bold;
   font-style: italic;
+  margin-bottom: 20px;
 }
 p {
   color: black;
   line-height: 3;
+  margin: 15px;
+}
+
+ol, ul {
+  margin: 15px;
 }
 
 section {
   color: green;
+  border: 1px solid gainsboro;
+  background-color: white;
+  margin: 30px;
+  padding: 30px;
 }
+
 
 footer {
   color: black;
@@ -55,4 +75,9 @@ a:hover {
 }
 a:visited {
   color: black;
+}
+header,
+section,
+footer {
+  padding: 30px;
 }
