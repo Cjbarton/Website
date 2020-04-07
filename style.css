@@ -2,7 +2,7 @@
 * {
    font-size: 100%;
    margin: 0;
-   line-height: 1;
+   line-height: 2;
    box-sizing: border-box;
    /* border: 1px solid red; */
 }
@@ -18,7 +18,7 @@ img {
   width: 300px;
   height: 200px;
   border: 2px solid black;
-  
+
 }
 
 h1 {
@@ -88,4 +88,8 @@ header,
 section,
 footer {
   padding: 30px;
+}
+.title {
+  font-size: 48px;
+  text-decoration: underline;
 }
