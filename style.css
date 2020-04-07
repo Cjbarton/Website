@@ -90,6 +90,7 @@ footer {
   padding: 30px;
 }
 .title {
+  color: blue;
   font-size: 48px;
   text-decoration: underline;
 }
