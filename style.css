@@ -101,6 +101,13 @@ footer {
 }
 .title {
   color: black;
-  font-size: 48px;
-  text-decoration: underline;
+  font-size: 46px;
+  text-decoration: none;
+}
+.container {
+  max-width: 2000px;
+  margin: 0 auto;
+}
+div {
+  margin: 0 auto;
 }
