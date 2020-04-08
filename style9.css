@@ -1,5 +1,5 @@
   body {
-    background-color: none;
+    background-color: green;
     font-family: helvetica;
     font-size: 14px;
     background-image: url("images/school.png");
@@ -13,7 +13,7 @@
    ​
    .banner {
      height: 250px;
-     background-image: url("images/banner.jpg");
+     background-image: url("images/hope.jpg");
      background-size: cover;
      background-position: center;
    }
