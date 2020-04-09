@@ -14,12 +14,12 @@
    .banner {
      height: 350px;
      background-image: url("images/sunset.jpg");
-     background-size: center;
-     background-position: center;
+     background-size: cover;
+     background-position: cover;
    }
    ​
   .container {
-     margin: 0 auto;
+     margin:
      max-width: 1400px;
      background-color: white;
      background-image: url("images/sunset.jpg");
