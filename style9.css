@@ -19,8 +19,7 @@
    }
    ​
   .container {
-     max-width: 14
-    00px;
+     max-width: 1400px;
      margin: 0 auto;
      background-color: white;
      background-image: url("images/sunset.png");
