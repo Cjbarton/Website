@@ -74,7 +74,10 @@ section {
 section h1 {
   text-align: left;
 }
+section ul {
+  border-bottom: 2px solid black;
 
+}
 footer {
   color: black;
 }
