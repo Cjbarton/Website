@@ -1,5 +1,12 @@
 /* about web style */
-body{
+* {
+   font-size: 100%;
+   margin: 0;
+   line-height: 2;
+   box-sizing: border-box;
+
+
+body {
   text-align: center;
   color:black; font-family:"Merriweather", serif;
   font-size: 15px;
