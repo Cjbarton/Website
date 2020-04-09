@@ -27,7 +27,7 @@
      background-size: cover;
      background-position: center;
      display: grid;
-     grid-template-columns: 300px 300px 300px 00px;
+     grid-template-columns: 50px 50px 50px 50px;
      align-items: start;
      justify-content: space-between;
    }
