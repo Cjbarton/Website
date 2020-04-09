@@ -2,7 +2,7 @@ body {
   background-color: aqua;
   font-family: arial;
   font-size: 14px;
-  background-image: url("images/giftly.png");
+  background-image: url("images/more-leaves.png");
   background-repeat: repeat;
 }
 ​
@@ -12,18 +12,17 @@ h1 {
 }
 ​
 .banner {
-  height: 350px;
-  background-image: url("sunset.jpg");
+  height: 250px;
+  background-image: url("images/banner.jpg");
   background-size: cover;
   background-position: center;
-
 }
 ​
 .container {
   max-width: 1400px;
   margin: 0 auto;
   background-color: white;
-  background-image: url("images/sunset.png");
+  background-image: url("images/more-leaves.png");
   background-repeat: repeat;
   /* background-size: cover; */
   background-position: center;
@@ -46,6 +45,5 @@ header {
 }
 ​
 .menu {
-  max-width: 1400px;
-  text-align: center;
+  max-width: 200px;
 }
