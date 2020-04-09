@@ -12,8 +12,7 @@
    }
    ​
    .banner {
-     height: 250px;
-     width: 1400px
+     height: 350px;
      background-image: url("images/sunset.jpg");
      background-size: cover;
      background-position: center;
@@ -23,7 +22,7 @@
      margin: 0 auto;
      max-width: 1400px;
      background-color: white;
-     background-image: url("images/sunset.png");
+     background-image: url("images/sunset.jpg");
      background-repeat: repeat;
     /* background-size: cover; */
      background-position: center;
@@ -34,7 +33,7 @@
    }
    ​
    div {
-     padding: 50px;
+     padding: 10px;
      max-width: 1400px;
      /* border: solid black 1px; */
      /* background-image: url("images/school.png"); */
