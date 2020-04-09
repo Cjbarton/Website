@@ -19,8 +19,8 @@
    }
    ​
   .container {
-     max-width: 1400px;
      margin: 0 auto;
+     max-width: 1400px;
      background-color: white;
      background-image: url("images/sunset.png");
      background-repeat: repeat;
