@@ -19,7 +19,8 @@
    }
    ​
   .container {
-     max-width: 2000px;
+     max-width: 14
+    00px;
      margin: 0 auto;
      background-color: white;
      background-image: url("images/sunset.png");
@@ -27,7 +28,7 @@
     /* background-size: cover; */
      background-position: center;
      display: grid;
-     grid-template-columns: 50px 50px 50px 50px;
+     grid-template-columns: 200px 200px 200px 200px;
      align-items: start;
      justify-content: space-between;
    }
