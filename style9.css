@@ -34,8 +34,9 @@
    }
    ​
    div {
-     padding: 100px;
-     max-width: 2000px;
+     margin: 0 auto;
+     padding: 50px;
+     max-width: 1400px;
      border: solid black 1px;
      background-image: url("images/school.png");
      text-align: center;
