@@ -4,7 +4,6 @@
    margin: 0;
    line-height: 2;
    box-sizing: border-box;
-   /* border: 1px solid red; */
 }
 
  body {
@@ -121,7 +120,7 @@ footer {
 }
 .container {
   max-width: 2000px;
-  margin: 0 auto;
+  margin: 0;
 }
 div {
   margin: 0 auto;
