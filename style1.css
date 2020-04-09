@@ -1,5 +1,8 @@
 /* about web style */
 body{
   text-align: center;
+  color:black; font-family:"Merriweather", serif;
+  font-size: 15px;
   background-image: url("images/school.png")
+  background-repeat: repeat;
 }
